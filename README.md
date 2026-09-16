@@ -2,6 +2,12 @@
 
 This repository is a runnable learning environment for **Kenneth Skinland**.
 
+## Prerequisites
+
+- .NET 10 SDK
+- Node.js 20 or newer
+- npm
+
 ## Your responsibility
 
 - **Task 1:** coordinate coding and the later merge into the separate shared repository.
